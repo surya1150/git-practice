@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World! I am From Eclipse";
+    private final String message = "Hello World! I am From Eclipse and checking the poll SCM";
 
     public App() {}
 
